@@ -5,8 +5,5 @@ It has great importance especially in cyber intelligence as well as defence mini
 Python program for Caesar's encypher
 If,Shift value: 3 
 Actual     : A B C D E F G ...... U V W X Y Z 
-Encoded : C D E F G H I ........ X Y Z A B C 
-
-Look at this encoded message  : L ORYH BRX 
-When decoded, it looks this way : I LOVE YOU 
+Encoded : C D E F G H I ........ X Y Z A B C  
 
